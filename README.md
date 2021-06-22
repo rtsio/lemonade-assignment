@@ -10,7 +10,7 @@ Run: `./gradlew build`
 
 #### Count words
 
-`POST /` - count number of words in a given string
+`POST /count` - count number of words in a given string
 
 Payload:
 ```json
